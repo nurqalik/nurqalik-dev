@@ -1,25 +1,25 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Nur Qalik",
     "label": "Junior Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "qaliksulistyo@gmail.com",
+    "phone": "+62 8951 6942 129",
+    "url": "https://nurqalik.my.id",
+    "summary": "Experienced Web Developer adept in all stages of advanced web development. Proficient in an assortment of technologies, including JavaScript, Node.js, React.js, Next.js, Typescript, and Tailwind CSS.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Bekasi",
+      "countryCode": "ID",
+      "region": "Indonesia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "nurqalik",
+        "url": "https://www.linkedin.com/in/muhammad-nur-qalik-sulistyo-45614b173/"
       },
       {
         "network": "X",
@@ -28,79 +28,88 @@
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "nurqalik",
+        "url": "https://github.com/nurqalik"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
+      "name": "PT Plato Teknologi Indonesia",
+      "position": "Frontend Web Developer",
+      "location_type": "Remote",
+      "location": "Jakarta, Indoneisa",
       "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "startDate": "2023-12-05",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Developing and maintaining web applications using Nextjs and Tailwind. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Collaborated with senior developers to adding new features on existing web apps such as Kanban.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Participated in code reviews and contributed to improving coding standards within the team.",
+        "Implementation api to connect frontend and backend using react query like tanstack"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Developing and maintaining web applications using Nextjs and Tailwind. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
+        "Next",
         "Tailwind",
-        "GitHub"
+        "Typescript",
+        "GitHub",
+        "Shadcn",
+        "Jotai",
+        "Tanstack"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "Joki Priceless Team",
+      "position": "Frontend Web Developer",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
+      "location": "Bekasi, Indonesia",
       "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "summary": " This is a small group with few devs and they do freelancing to build customer needs.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
+        "Developed and maintained simple backend CRUD system.",
         "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Building UI/UX using Nextjs and also code with t3-stack technology."
       ],
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
+        "Next",
+        "Prisma",
+        "Typescript",
+        "Tailwind",
+        "tRPC",
+        "NextAuth",
         "Git"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "PT Agility Internasional",
+      "position": "Warehouse Operational - Taining",
+      "location_type": "On Site",
+      "location": "Bekasi, Indonesia",
+      "startDate": "2019-09-20",
+      "endDate": "2019-11-20",
+      "summary": "Encompass the various activities involved in the efficient management of goods within a storage facility.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Manage new brand to warehouse operation."
       ],
-      "skills": [
-        "HTML",
-        "CSS"
+      "responsibilities": [
+        "Relocate product from warehouse to Mezzanine.",
+        "Pick up order list from Mezzanine.",
+        "QC checks the product from the Picker and packing."
       ]
     }
   ],
@@ -119,52 +128,14 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
+      "institution": "Vocational High School 06 Bekasi City",
       "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "studyType": "Vocational Highscool",
+      "startDate": "2014-09-01",
+      "endDate": "2017-05-01"
     }
   ],
   "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
   ],
   "skills": [
     {
@@ -173,15 +144,6 @@
       "keywords": [
         "Design",
         "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
       ]
     },
     {
@@ -295,10 +257,6 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Spanish",
       "fluency": "Intermediate"
     }
   ],
@@ -306,59 +264,54 @@
     {
       "name": "Technology",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "Web Development",
+        "Frontend"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
   ],
   "projects": [
     {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-        "Built with React and Tailwind CSS",
+        "Built with Nextjs and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
+      "url": "https://nurqalik.my.id",
       "github": "https://github.com"
     },
     {
-      "name": "Weather App",
+      "name": "Foodie",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A web application that provides cafe and restorant order cashier sistem.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
+        "Built with T3 Stack Terhnology",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://foodie.vercel.app"
     },
     {
-      "name": "Task Manager",
+      "name": "Pesen.id",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A web application that provides to manage cafe and restaurant as an owner.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Full feature to growth up your F&B Bussiness",
+        "Manage many store in one app"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://pesen.id"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Alazhar School Website",
+      "isActive": true,
+      "description": "An school site to standout and promotion.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "All about school",
+        "Landing page for new student and teacher to access from browser"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://alazharislam.com"
     }
   ]
 }
