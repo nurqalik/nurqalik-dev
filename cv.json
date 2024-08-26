@@ -22,14 +22,14 @@
         "url": "https://www.linkedin.com/in/muhammad-nur-qalik-sulistyo-45614b173/"
       },
       {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
-      {
         "network": "GitHub",
         "username": "nurqalik",
         "url": "https://github.com/nurqalik"
+      },
+      {
+        "network": "Instagram",
+        "username": "mn.qalik",
+        "url": "https://instagram.com/mn.qalik"
       }
     ]
   },
@@ -39,7 +39,7 @@
       "position": "Frontend Web Developer",
       "location_type": "Remote",
       "location": "Jakarta, Indoneisa",
-      "url": "https://techstartup.com",
+      "url": null,
       "startDate": "2023-12-05",
       "endDate": null,
       "summary": "Developing and maintaining web applications using Nextjs and Tailwind. Collaborating with the team to implement new features and fix bugs.",
@@ -58,7 +58,7 @@
       "skills": [
         "Next",
         "Tailwind",
-        "Typescript",
+        "TypeScript",
         "GitHub",
         "Shadcn",
         "Jotai",
@@ -70,7 +70,7 @@
       "position": "Frontend Web Developer",
       "location_type": "Hybrid",
       "location": "Bekasi, Indonesia",
-      "url": "https://innovativesolutions.com",
+      "url": null,
       "startDate": "2023-05-01",
       "endDate": null,
       "summary": " This is a small group with few devs and they do freelancing to build customer needs.",
@@ -88,7 +88,7 @@
       "skills": [
         "Next",
         "Prisma",
-        "Typescript",
+        "TypeScript",
         "Tailwind",
         "tRPC",
         "NextAuth",
@@ -281,12 +281,11 @@
         "Built with Nextjs and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://nurqalik.my.id",
-      "github": "https://github.com"
+      "url": "https://nurqalik.vercel.app"
     },
     {
       "name": "Foodie",
-      "isActive": true,
+      "isActive": false,
       "description": "A web application that provides cafe and restorant order cashier sistem.",
       "highlights": [
         "Built with T3 Stack Terhnology",
