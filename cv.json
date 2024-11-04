@@ -53,78 +53,53 @@
         "Implementation api to connect frontend and backend using react query like tanstack"
       ],
       "achievements": [
-        "Developing and maintaining web applications using Nextjs and Tailwind. Collaborating with the team to implement new features and fix bugs."
+        "Debugging existing code and make sure the feature works as expected.",
+        "Created kanban board as visual project management tool designed to help teams and individuals track tasks and manage workflows."
       ],
       "skills": [
         "Next",
-        "Tailwind",
         "TypeScript",
-        "GitHub",
-        "Shadcn",
         "Jotai",
-        "Tanstack"
+        "Tanstack",
+        "Tailwind",
+        "GitHub",
+        "Shadcn"
       ]
     },
     {
-      "name": "Joki Priceless Team",
+      "name": "PT Whitebox",
       "position": "Frontend Web Developer",
-      "location_type": "Hybrid",
-      "location": "Bekasi, Indonesia",
+      "location_type": "Remote",
+      "location": "Jakarta, Indonesia",
       "url": null,
-      "startDate": "2023-05-01",
+      "startDate": "2023-12-05",
       "endDate": null,
-      "summary": " This is a small group with few devs and they do freelancing to build customer needs.",
+      "summary": "IT Consult that make web app based on client needs.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained simple backend CRUD system.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Building UI/UX using Nextjs and also code with t3-stack technology."
+        "Created project for bussiness coompany from scratch.",
+        "Make sure that the project meets the business needs and requirements.",
+        "Building UI/UX using Nextjs and also connected to the backend via api."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Successfully updating landing page for company profile that increase their bussiness by 40%.",
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%."
       ],
       "skills": [
         "Next",
-        "Prisma",
         "TypeScript",
+        "Jotai",
+        "Tanstack",
         "Tailwind",
-        "tRPC",
-        "NextAuth",
-        "Git"
-      ]
-    },
-    {
-      "name": "PT Agility Internasional",
-      "position": "Warehouse Operational - Taining",
-      "location_type": "On Site",
-      "location": "Bekasi, Indonesia",
-      "startDate": "2019-09-20",
-      "endDate": "2019-11-20",
-      "summary": "Encompass the various activities involved in the efficient management of goods within a storage facility.",
-      "highlights": [
-        "Manage new brand to warehouse operation."
-      ],
-      "responsibilities": [
-        "Relocate product from warehouse to Mezzanine.",
-        "Pick up order list from Mezzanine.",
-        "QC checks the product from the Picker and packing."
+        "GitHub",
+        "Shadcn"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
+    
   ],
   "education": [
     {
@@ -140,38 +115,34 @@
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
+      "name": "Next.js",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Responsive Design"
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "TypeScript",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
         "Backend",
-        "Fullstack"
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
@@ -185,13 +156,11 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Intermediate",
+      "name": "Figma",
+      "level": "Expert",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
+        "Design",
+        "UI"
       ]
     },
     {
@@ -234,24 +203,30 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
+      "name": "JavaScript",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
       ]
     }
   ],
@@ -312,6 +287,26 @@
         "Landing page for new student and teacher to access from browser"
       ],
       "url": "https://alazharislam.com"
+    },
+    {
+      "name": "Markplus",
+      "isActive": false,
+      "description": "Quesioner web application for company research their customer market and needs.",
+      "highlights": [
+        "Built with Nextjs and Tailwind CSS",
+        "All about to increase customer satisfication of company products."
+      ],
+      "url": "https://beta.markplusinc.com"
+    },
+    {
+      "name": "Zach-card",
+      "isActive": true,
+      "description": "Personal portfolio designed for digital artist to attract attention their client.",
+      "highlights": [
+        "Built with Nextjs and Tailwind CSS",
+        "Make their digital product standout and easy to access."
+      ],
+      "url": "https://zach-card.vercel.app"
     }
   ]
 }
