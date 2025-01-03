@@ -307,6 +307,16 @@
         "Make their digital product standout and easy to access."
       ],
       "url": "https://zach-card.vercel.app"
+    },
+    {
+      "name": "Simdisa-safar",
+      "isActive": true,
+      "description": "Marketplace to buy and sell electric bike accessories.",
+      "highlights": [
+        "Built with Nextjs and Tailwind CSS",
+        "Platform to provide electric bike accessories."
+      ],
+      "url": "https://simdisa.saefulaskar.com"
     }
   ]
 }
