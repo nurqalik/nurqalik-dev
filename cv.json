@@ -35,6 +35,38 @@
   },
   "work": [
     {
+      "name": "PT Tri Venterium Digital",
+      "position": "Fullstack Web Developer",
+      "location_type": "Remote",
+      "location": "Bekasi, Indoneisa",
+      "url": null,
+      "startDate": "2024-11-05",
+      "endDate": null,
+      "summary": "Build marketplace for electric bike accessories.",
+      "highlights": [
+        
+      ],
+      "responsibilities": [
+        "Developed the company's marketplace, reducing dependency on public platforms and cutting service fees by 15%.",
+        "Built the storefront for customers, enabling shopping cart management, transactions, and checkout, handling hundreds of orders per month.",
+        "Implemented a real-time transaction status tracking feature, reducing customer inquiries by 70%.",
+        "Contributed to the admin dashboard, streamlining transactions and payment management.",
+        "Developed a bookkeeping feature, improving financial tracking and reducing manual errors by 80%."
+      ],
+      "achievements": [
+        "Improving financial tracking and reducing manual errors by 80%.",
+        "Make some feature to decrease human error possibilities."
+      ],
+      "skills": [
+        "Next",
+        "TypeScript",
+        "Tanstack",
+        "TRPC",
+        "Tailwind",
+        "GitHub",
+        "Shadcn"
+      ]
+    },{
       "name": "PT Plato Teknologi Indonesia",
       "position": "Frontend Web Developer",
       "location_type": "Remote",
@@ -50,7 +82,8 @@
         "Collaborated with senior developers to adding new features on existing web apps such as Kanban.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
         "Participated in code reviews and contributed to improving coding standards within the team.",
-        "Implementation api to connect frontend and backend using react query like tanstack"
+        "Implementation api to connect frontend and backend using react query like tanstack",
+        "Contributed to bug fixing, improving system stability by 85%."
       ],
       "achievements": [
         "Debugging existing code and make sure the feature works as expected.",
