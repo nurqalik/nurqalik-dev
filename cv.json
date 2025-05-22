@@ -28,13 +28,74 @@
       },
       {
         "network": "Instagram",
-        "username": "mn.qalik",
-        "url": "https://instagram.com/mn.qalik"
+        "username": "Nur Qalik",
+        "url": "https://instagram.com/roe.e.e.e"
       }
     ]
   },
   "work": [
     {
+      "name": "Apprvd.co",
+      "position": "Intership Web Developer",
+      "location_type": "Remote",
+      "location": "Global",
+      "url": null,
+      "startDate": "2025-02-05",
+      "endDate": null,
+      "summary": "Rich text editor for specially legal docx that connected to ai.",
+      "highlights": [
+        
+      ],
+      "responsibilities": [
+        "Migrated the platform's rich text editing framework from Plate.js to TinyMCE, improving editing performance and compatibility with advanced legal formatting needs.",
+        "Integrated a commenting feature within the TinyMCE editor to allow users and reviewers to leave contextual feedback directly on AI-generated content, streamlining the document review workflow.",
+        "Designed and implemented structured document templates to standardize legal document generation, enabling users to create consistent and professional outputs with minimal manual effort."
+      ],
+      "achievements": [
+        "Successfully migrated and optimized the rich text editor platform, resulting in improved performance and enhanced legal document formatting capabilities.",
+        "Implemented an innovative commenting system within the editor that streamlined document review processes and improved team collaboration efficiency.",
+        "Developed standardized document templates that reduced manual effort by 40% and ensured consistent, professional output across all legal documents."
+      ],
+      "skills": [
+        "Vite",
+        "TypeScript",
+        "TinyMCE",
+        "Plate.js",
+        "Tailwind",
+        "GitHub"
+      ]
+    },{
+      "name": "PT Relai",
+      "position": "Intership Web Developer",
+      "location_type": "Remote",
+      "location": "Jakarta, Indonesia",
+      "url": null,
+      "startDate": "2025-01-24",
+      "endDate": null,
+      "summary": "Make gamification website for company's product advertisement.",
+      "highlights": [
+        
+      ],
+      "responsibilities": [
+        "Developed user interfaces for gamification websites, focusing on image upload and face detection features, enhancing user interaction and engagement.",
+        "Ensured responsive web design across various devices and screen sizes to deliver consistent and accessible user experiences.",
+        "Contributed to marketing efforts that reached millions of end-users, supporting large-scale product advertisement campaigns for clients.",
+        "Worked in agile sprint cycles of 7–14 days per project, ensuring rapid delivery and iteration based on stakeholder feedback and user testing."
+      ],
+      "achievements": [
+        "Ensure the website is responsive and accessible to all users.",
+        "Make the product advertisement campaign more effective and efficient."
+      ],
+      "skills": [
+        "Next",
+        "TypeScript",
+        "ReactDnd",
+        "html2canvas",
+        "Tailwind",
+        "GitHub",
+        "face_landmark_detection"
+      ]
+    },{
       "name": "PT Tri Venterium Digital",
       "position": "Fullstack Web Developer",
       "location_type": "Remote",
@@ -68,7 +129,7 @@
       ]
     },{
       "name": "PT Plato Teknologi Indonesia",
-      "position": "Frontend Web Developer",
+      "position": "Freelance Frontend Web Developer",
       "location_type": "Remote",
       "location": "Jakarta, Indoneisa",
       "url": null,
@@ -101,7 +162,7 @@
     },
     {
       "name": "PT Whitebox",
-      "position": "Frontend Web Developer",
+      "position": "Freelance Frontend Web Developer",
       "location_type": "Remote",
       "location": "Jakarta, Indonesia",
       "url": null,
@@ -350,6 +411,26 @@
         "Platform to provide electric bike accessories."
       ],
       "url": "https://simdisa.saefulaskar.com"
+    },
+    {
+      "name": "Aqua mudik gamification",
+      "isActive": true,
+      "description": "Gamification website for company's product advertisement.",
+      "highlights": [
+        "Built with Nextjs and Tailwind CSS",
+        "Platform to provide gamification for company's product advertisement."
+      ],
+      "url": "https://www.aquamurnidihariraya.com"
+    },
+    {
+      "name": "XL-Circle",
+      "isActive": true,
+      "description": "Gamification website for company's product advertisement.",
+      "highlights": [
+        "Built with Nextjs and Tailwind CSS",
+        "Platform to provide gamification for company's product advertisement."
+      ],
+      "url": "https://www.xlramaidanuntung.com"
     }
   ]
 }
