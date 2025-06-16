@@ -364,7 +364,7 @@
     },
     {
       "name": "Pesen.id",
-      "isActive": true,
+      "isActive": false,
       "description": "A web application that provides to manage cafe and restaurant as an owner.",
       "highlights": [
         "Full feature to growth up your F&B Bussiness",
@@ -374,7 +374,7 @@
     },
     {
       "name": "Alazhar School Website",
-      "isActive": true,
+      "isActive": false,
       "description": "An school site to standout and promotion.",
       "highlights": [
         "All about school",
@@ -431,6 +431,16 @@
         "Platform to provide gamification for company's product advertisement."
       ],
       "url": "https://www.xlramaidanuntung.com"
+    },
+    {
+      "name": "Apprvd.co",
+      "isActive": true,
+      "description": "Rich text editor for specially legal docx that connected to ai.",
+      "highlights": [
+        "Built with Nextjs and Tailwind CSS",
+        "Tools for legal team collaborated to create legal doc using ai suggestion"
+      ],
+      "url": "https://www.apprvd.co"
     }
   ]
 }
